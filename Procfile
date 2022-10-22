@@ -1,1 +1,1 @@
-ls ls
+worker: ls ls
